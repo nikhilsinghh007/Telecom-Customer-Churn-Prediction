@@ -34,3 +34,6 @@ This project uses machine learning to predict customer churn in the telecom indu
 # Dataset Description: 
 - This project uses the 'Telecom Customer Churn dataset', which contains information about customer demographics, services subscribed, and usage patterns. The dataset includes columns like Customer ID, Gender, Age, Monthly Charges, Contract Type, and whether the customer churned or not.
 - The model is trained to predict customer churn using both numeric and categorical data. Categorical columns (e.g., Gender, Contract Type) are encoded numerically to allow the model to process them effectively.
+
+# Contributing
+Feel free to fork the repository and create pull requests. Issues and improvements are welcome.
